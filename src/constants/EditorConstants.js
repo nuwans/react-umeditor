@@ -7,147 +7,147 @@ var EditorIconTypes = {
 		disabled:false
 	},
 	"undo":{
-		title:"撤销",
+		title:"Undo",
 		disabled:false
 	},
 	"redo":{
-		title:"重做",
+		title:"Redo",
 		disabled:false
 	},
 	"bold":{
-		title:"加粗",
+		title:"Bold",
 		disabled:false
 	},
 	"italic":{
-		title:"斜线",
+		title:"Italic",
 		disabled:false
 	},
 	"underline":{
-		title:"下划线",
+		title:"Underline",
 		disabled:false
 	},
 	"strikethrough":{
-		title:"删除线",
+		title:"Strikethrough",
 		disabled:false
 	},
 	"superscript":{
-		title:"上标",
+		title:"Superscript",
 		disabled:false
 	},
 	"subscript":{
-		title:"下标",
+		title:"Subscript",
 		disabled:false
 	},
 	"forecolor":{
-		title:"字体颜色",
+		title:"Forecolor",
 		disabled:false
 	},
 	"backcolor":{
-		title:"背景色",
+		title:"Backcolor",
 		disabled:false
 	},
 	"removeformat":{
-		title:"清除格式",
+		title:"removeformat",
 		disabled:false
 	},
 	"insertunorderedlist":{
-		title:"无序列表",
+		title:"insertunorderedlist",
 		disabled:false
 	},
 	"insertorderedlist":{
-		title:"有序列表",
+		title:"insertorderedlist",
 		disabled:false
 	},
 	"selectall":{
-		title:"全选",
+		title:"selectall",
 		disabled:false
 	},
 	"cleardoc":{
-		title:"清空文档",
+		title:"cleardoc",
 		disabled:false
 	},
 	"paragraph":{
-		title:"段落格式",
+		title:"paragraph",
 		disabled:false
 	},
 	"fontfamily":{
-		title:"字体",
+		title:"fontfamily",
 		disabled:false
 	},
 	"fontsize":{
-		title:"字号",
+		title:"fontsize",
 		disabled:false
 	},
 	"justifyleft":{
-		title:"居左对齐",
+		title:"justifyleft",
 		disabled:false
 	},
 	"justifycenter":{
-		title:"居中对齐",
+		title:"justifycenter",
 		disabled:false
 	},
 	"justifyright":{
-		title:"居右对齐",
+		title:"justifyright",
 		disabled:false
 	},
 	"link":{
-		title:"超链接",
+		title:"link",
 		disabled:false
 	},
 	"unlink":{
-		title:"取消链接",
+		title:"unlink",
 		disabled:false
 	},
-	"emotion":{
-		title:"表情",
+	/*"emotion":{
+		title:"emotion",
 		disabled:false
-	},
+	},*/
 	"image":{
-		title:"图片",
+		title:"image",
 		disabled:false
 	},
 	"video":{
-		title:"视频",
+		title:"video",
 		disabled:false
 	},
 	"map":{
-		title:"百度地图",
+		title:"map",
 		disabled:false
 	},
 	"horizontal":{
-		title:"分隔线",
+		title:"horizontal",
 		disabled:false
 	},
 	"print":{
-		title:"打印",
+		title:"print",
 		disabled:false
 	},
 	"preview":{
-		title:"预览",
+		title:"preview",
 		disabled:false
 	},
 	"drafts":{
-		title:"草稿箱",
+		title:"drafts",
 		disabled:false
 	},
 	"formula":{
-		title:"数学公式",
+		title:"formula",
 		disabled:false
 	},
     "inserttable":{
-		title:"插入表格",
+		title:"inserttable",
 		disabled:false
     },
 	"touppercase":{
-		title:"转换大写",
+		title:"touppercase",
 		disabled:false
 	},
 	"tolowercase":{
-		title:"转换小写",
+		title:"tolowercase",
 		disabled:false
 	},
 	"indent":{
-		title:"增加缩进",
+		title:"indent",
 		disabled:false
 	},
 	"outdent":{
@@ -155,23 +155,23 @@ var EditorIconTypes = {
 		disabled:false
 	},
 	"spechars":{
-		title:"特殊符号",
+		title:"outdent",
 		disabled:false
 	},
 	"fontborder":{
-		title:"字体边框",
+		title:"fontborder",
 		disabled:false
 	},
     "date":{
-        title:"插入日期",
+        title:"date",
         disabled:false
     },
     "time":{
-        title:"插入时间",
+        title:"time",
         disabled:false
     },
 	"emphasis":{
-		title: "着重号",
+		title: "emphasis",
 		disabled: false
 	}
 }
